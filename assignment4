@@ -1,0 +1,6 @@
+<script>start("/Users/ryanhanrahan/fullstack-course4/assignments/assignment4/assignment4-solution-starter/assignment4/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("js","js",1,96,"96 B",1740077622,"2/20/25, 10:53:42 AM");</script>
+<script>addRow("index.html","index.html",0,1134,"1.1 kB",1740077808,"2/20/25, 10:56:48 AM");</script>
+<script>addRow("SpeakGoodBye.js","SpeakGoodBye.js",0,369,"369 B",1740077168,"2/20/25, 10:46:08 AM");</script>
+<script>addRow("SpeakHello.js","SpeakHello.js",0,323,"323 B",1740077145,"2/20/25, 10:45:45 AM");</script>
